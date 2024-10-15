@@ -1,0 +1,30 @@
+# Gagnez le City Trip de vos Rêves pour Noël 2024
+
+Bienvenue sur le projet **Gagnez le City Trip de vos Rêves pour Noël 2024**. Ce site vous permet de participer à un concours pour remporter un voyage inoubliable dans l'une des plus belles destinations de Noël !
+
+## Table des Matières
+
+- [À Propos](#à-propos)
+- [Fonctionnalités](#fonctionnalités)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Contributions](#contributions)
+- [Contact](#contact)
+
+## À Propos
+
+Ce site a été conçu pour offrir aux utilisateurs la possibilité de participer à un concours pour gagner un city trip pendant la période des fêtes. 
+
+## Fonctionnalités
+
+- Formulaire de participation simple et accessible.
+- Étapes claires pour participer au concours.
+- Informations sur les destinations disponibles.
+
+## Installation
+
+Pour utiliser ce projet localement :
+
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/votre-utilisateur/votre-repo.git
